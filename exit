@@ -1,0 +1,52 @@
+import sys
+import time
+import cmine
+
+# GIVE INPUT IN THE FORM
+# python3 run.py <adressof_inputdatafile>
+
+t1 = time.clock()
+# minRF = float(sys.argv[1])
+# minCS = float(sys.argv[2])
+# maxOR = float(sys.argv[3])
+inpfile = sys.argv[1]
+obj = cmine.cmine(inpfile)
+candidate_patterns = obj.expand()
+ranked_pttrns = sorted(obj.cvg_pttrn, key=lambda a: (-a[4], -a[3]))
+final_pttrns = ranked_pttrns
+seti = []
+#print("initial sorted \n")
+#for i in ranked_pttrns:
+    #print(str(i)+"\n")
+rem = []
+for i in ranked_pttrns:
+    # print(str(i)+"\n")
+    buffer = []
+    flag = 0
+    for j in i[0]:
+        if j not in seti:
+            buffer.append(j)
+
+        else:
+            rem = rem+[i]
+            flag = 1
+            break
+
+    if flag == 0:
+        seti = seti + buffer
+
+
+for i in rem:
+    ranked_pttrns.remove(i)
+
+
+#print("\n final sorted \n")
+#for i in ranked_pttrns:
+    #print(str(i)+"\n")
+
+with open('final_output.txt', 'w') as f:
+    for ele in ranked_pttrns:
+        f.write(str(ele)+'\n')
+
+t2 = time.clock()
+print("process done", str(t2-t1))

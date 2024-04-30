@@ -1,0 +1,16 @@
+2021-06-09 03:48:12,442 - __main__ - INFO - Got the following arguments: ['our_mine.py', '0.00279', '0.2', '0.01', '40', 'k100.txt', 'output_k100_350_01_2']
+2021-06-09 03:48:12,443 - __main__ - INFO - started mining
+2021-06-09 03:48:12,443 - __main__ - INFO - reading transactional data
+2021-06-09 03:48:12,595 - __main__ - INFO - First level mining
+2021-06-09 03:48:14,428 - __main__ - INFO - Got first level patterns : 298  writing to file
+2021-06-09 03:48:14,430 - __main__ - INFO - Generating second level candidateset
+2021-06-09 03:48:14,660 - __main__ - INFO - computing non-overlap patterns for level : 2
+2021-06-09 03:48:15,435 - __main__ - INFO - saving 2 level patterns, got : 29071
+2021-06-09 03:48:15,484 - __main__ - INFO - computing next level candidates
+2021-06-09 03:48:15,767 - __main__ - INFO - computing non-overlap patterns for level : 3
+2021-06-09 03:48:36,494 - __main__ - INFO - saving 3 level patterns, got : 458392
+2021-06-09 03:48:37,283 - __main__ - INFO - computing next level candidates
+2021-06-09 03:48:39,558 - __main__ - INFO - computing non-overlap patterns for level : 4
+2021-06-09 03:50:36,429 - __main__ - INFO - saving 4 level patterns, got : 10
+2021-06-09 03:50:36,432 - __main__ - INFO - computing next level candidates
+2021-06-09 03:50:37,218 - __main__ - INFO - total time taken: 144.77575969696045

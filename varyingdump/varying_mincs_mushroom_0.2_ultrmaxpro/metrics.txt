@@ -1,0 +1,3 @@
+broadcast size:2964751
+shuffle read:1871
+shuffle write:74

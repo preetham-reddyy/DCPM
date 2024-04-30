@@ -1,0 +1,26 @@
+2021-07-09 02:30:44,787 - __main__ - INFO - Got the following arguments: ['our_pyspark.py', '0.045', '1', '0.2', '8', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/synthetic.txt', 'varying_maxor_synthetic_0.2_newalgo']
+2021-07-09 02:30:50,419 - __main__ - INFO - started mining
+2021-07-09 02:30:50,419 - __main__ - INFO - reading transactional data
+2021-07-09 02:30:50,590 - __main__ - INFO - First level mining
+2021-07-09 02:30:53,898 - __main__ - INFO - Got first level patterns : 17  writing to file
+2021-07-09 02:30:53,900 - __main__ - INFO - Generating second level candidateset
+2021-07-09 02:30:54,053 - __main__ - INFO - saving 2 level patterns
+2021-07-09 02:30:54,054 - __main__ - INFO - found 136 patterns
+2021-07-09 02:30:54,055 - __main__ - INFO - computing patterns for level : 3
+2021-07-09 02:30:54,495 - __main__ - INFO - saving 3 level patterns
+2021-07-09 02:30:54,496 - __main__ - INFO - found 639 patterns
+2021-07-09 02:30:54,498 - __main__ - INFO - computing patterns for level : 4
+2021-07-09 02:30:54,982 - __main__ - INFO - saving 4 level patterns
+2021-07-09 02:30:54,982 - __main__ - INFO - found 1782 patterns
+2021-07-09 02:30:54,994 - __main__ - INFO - computing patterns for level : 5
+2021-07-09 02:30:55,812 - __main__ - INFO - saving 5 level patterns
+2021-07-09 02:30:55,812 - __main__ - INFO - found 2107 patterns
+2021-07-09 02:30:55,820 - __main__ - INFO - computing patterns for level : 6
+2021-07-09 02:30:56,866 - __main__ - INFO - saving 6 level patterns
+2021-07-09 02:30:56,867 - __main__ - INFO - found 556 patterns
+2021-07-09 02:30:56,870 - __main__ - INFO - computing patterns for level : 7
+2021-07-09 02:30:57,183 - __main__ - INFO - saving 7 level patterns
+2021-07-09 02:30:57,183 - __main__ - INFO - found 9 patterns
+2021-07-09 02:30:57,184 - __main__ - INFO - computing patterns for level : 8
+2021-07-09 02:30:57,332 - __main__ - INFO - saving 8 level patterns
+2021-07-09 02:30:57,429 - __main__ - INFO - total time taken: 7.0099122524261475

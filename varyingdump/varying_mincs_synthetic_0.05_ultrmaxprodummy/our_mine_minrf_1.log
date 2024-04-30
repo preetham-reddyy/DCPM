@@ -1,0 +1,17 @@
+2021-07-25 23:49:29,776 - __main__ - INFO - Got the following arguments: ['our_newtest.py', '0.04', '1', '0.05', '16', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/synthetic.txt', 'varying_mincs_synthetic_0.05_ultrmaxprodummy']
+2021-07-25 23:49:37,205 - __main__ - INFO - started mining
+2021-07-25 23:49:37,205 - __main__ - INFO - reading transactional data
+2021-07-25 23:49:37,421 - __main__ - INFO - First level mining
+2021-07-25 23:49:40,489 - __main__ - INFO - Got first level patterns : 26  writing to file
+2021-07-25 23:49:40,490 - __main__ - INFO - Generating second level candidateset
+2021-07-25 23:49:40,662 - __main__ - INFO - saving 2 level patterns
+2021-07-25 23:49:40,663 - __main__ - INFO - found 187 patterns
+2021-07-25 23:49:40,663 - __main__ - INFO - computing patterns for level : 3
+2021-07-25 23:49:41,071 - __main__ - INFO - saving 3 level patterns
+2021-07-25 23:49:41,072 - __main__ - INFO - found 0 patterns
+2021-07-25 23:49:41,072 - __main__ - INFO - computing patterns for level : 4
+2021-07-25 23:49:41,203 - __main__ - INFO - saving 4 level patterns
+2021-07-25 23:49:41,290 - __main__ - INFO - total time taken: 4.085029363632202
+2021-07-25 23:49:41,291 - root - INFO - broadcast size:0
+shuffle read:0
+shuffle write:0

@@ -1,0 +1,61 @@
+2021-07-15 02:31:18,396 - __main__ - INFO - Got the following arguments: ['our_newtest.py', '0.065', '1', '0.4', '8', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', 'varying_minrf_synthetic_0.4_ultrmaxpro']
+2021-07-15 02:31:23,848 - __main__ - INFO - started mining
+2021-07-15 02:31:23,849 - __main__ - INFO - reading transactional data
+2021-07-15 02:31:23,982 - __main__ - INFO - First level mining
+2021-07-15 02:31:26,415 - __main__ - INFO - Got first level patterns : 20  writing to file
+2021-07-15 02:31:26,416 - __main__ - INFO - Generating second level candidateset
+2021-07-15 02:31:26,625 - __main__ - INFO - saving 2 level patterns
+2021-07-15 02:31:26,625 - __main__ - INFO - found 141 patterns
+2021-07-15 02:31:26,626 - __main__ - INFO - computing patterns for level : 3
+2021-07-15 02:31:27,121 - __main__ - INFO - saving 3 level patterns
+2021-07-15 02:31:27,121 - __main__ - INFO - found 318 patterns
+2021-07-15 02:31:27,121 - __main__ - INFO - computing patterns for level : 4
+2021-07-15 02:31:27,428 - __main__ - INFO - saving 4 level patterns
+2021-07-15 02:31:27,428 - __main__ - INFO - found 183 patterns
+2021-07-15 02:31:27,428 - __main__ - INFO - computing patterns for level : 5
+2021-07-15 02:31:27,597 - __main__ - INFO - saving 5 level patterns
+2021-07-15 02:31:27,598 - __main__ - INFO - found 0 patterns
+2021-07-15 02:31:27,598 - __main__ - INFO - computing patterns for level : 6
+2021-07-15 02:31:27,723 - __main__ - INFO - saving 6 level patterns
+2021-07-15 02:31:27,785 - __main__ - INFO - total time taken: 3.936321258544922
+2021-07-15 02:37:25,013 - __main__ - INFO - Got the following arguments: ['our_newtest.py', '0.045', '1', '0.4', '8', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/synthetic.txt', 'varying_minrf_synthetic_0.4_ultrmaxpro']
+2021-07-15 02:37:30,718 - __main__ - INFO - started mining
+2021-07-15 02:37:30,719 - __main__ - INFO - reading transactional data
+2021-07-15 02:37:30,887 - __main__ - INFO - First level mining
+2021-07-15 02:37:34,309 - __main__ - INFO - Got first level patterns : 17  writing to file
+2021-07-15 02:37:34,312 - __main__ - INFO - Generating second level candidateset
+2021-07-15 02:37:34,470 - __main__ - INFO - saving 2 level patterns
+2021-07-15 02:37:34,471 - __main__ - INFO - found 136 patterns
+2021-07-15 02:37:34,471 - __main__ - INFO - computing patterns for level : 3
+2021-07-15 02:37:34,897 - __main__ - INFO - saving 3 level patterns
+2021-07-15 02:37:34,897 - __main__ - INFO - found 680 patterns
+2021-07-15 02:37:34,897 - __main__ - INFO - computing patterns for level : 4
+2021-07-15 02:37:35,418 - __main__ - INFO - saving 4 level patterns
+2021-07-15 02:37:35,418 - __main__ - INFO - found 2380 patterns
+2021-07-15 02:37:35,418 - __main__ - INFO - computing patterns for level : 5
+2021-07-15 02:37:36,619 - __main__ - INFO - saving 5 level patterns
+2021-07-15 02:37:36,620 - __main__ - INFO - found 6175 patterns
+2021-07-15 02:37:36,620 - __main__ - INFO - computing patterns for level : 6
+2021-07-15 02:37:39,968 - __main__ - INFO - saving 6 level patterns
+2021-07-15 02:37:39,969 - __main__ - INFO - found 12277 patterns
+2021-07-15 02:37:39,969 - __main__ - INFO - computing patterns for level : 7
+2021-07-15 02:37:45,881 - __main__ - INFO - saving 7 level patterns
+2021-07-15 02:37:45,883 - __main__ - INFO - found 18524 patterns
+2021-07-15 02:37:45,883 - __main__ - INFO - computing patterns for level : 8
+2021-07-15 02:37:53,869 - __main__ - INFO - saving 8 level patterns
+2021-07-15 02:37:53,872 - __main__ - INFO - found 19433 patterns
+2021-07-15 02:37:53,872 - __main__ - INFO - computing patterns for level : 9
+2021-07-15 02:38:04,585 - __main__ - INFO - saving 9 level patterns
+2021-07-15 02:38:04,587 - __main__ - INFO - found 12590 patterns
+2021-07-15 02:38:04,587 - __main__ - INFO - computing patterns for level : 10
+2021-07-15 02:38:12,912 - __main__ - INFO - saving 10 level patterns
+2021-07-15 02:38:12,914 - __main__ - INFO - found 3648 patterns
+2021-07-15 02:38:12,914 - __main__ - INFO - computing patterns for level : 11
+2021-07-15 02:38:16,227 - __main__ - INFO - saving 11 level patterns
+2021-07-15 02:38:16,228 - __main__ - INFO - found 259 patterns
+2021-07-15 02:38:16,228 - __main__ - INFO - computing patterns for level : 12
+2021-07-15 02:38:16,583 - __main__ - INFO - saving 12 level patterns
+2021-07-15 02:38:16,583 - __main__ - INFO - found 0 patterns
+2021-07-15 02:38:16,583 - __main__ - INFO - computing patterns for level : 13
+2021-07-15 02:38:16,679 - __main__ - INFO - saving 13 level patterns
+2021-07-15 02:38:16,729 - __main__ - INFO - total time taken: 46.01093673706055

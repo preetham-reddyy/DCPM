@@ -1,0 +1,29 @@
+2021-07-28 02:02:59,386 - __main__ - INFO - Got the following arguments: ['our_newtest.py', '0.12', '1', '0.35', '16', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/mushroom.txt', 'varying_minRF_synthetic_0.12_ultrmaxprodummy']
+2021-07-28 02:03:04,892 - __main__ - INFO - started mining
+2021-07-28 02:03:04,892 - __main__ - INFO - reading transactional data
+2021-07-28 02:03:04,919 - __main__ - INFO - First level mining
+2021-07-28 02:03:06,877 - __main__ - INFO - Got first level patterns : 54  writing to file
+2021-07-28 02:03:06,878 - __main__ - INFO - Generating second level candidateset
+2021-07-28 02:03:07,122 - __main__ - INFO - saving 2 level patterns
+2021-07-28 02:03:07,122 - __main__ - INFO - found 494 patterns
+2021-07-28 02:03:07,123 - __main__ - INFO - computing patterns for level : 3
+2021-07-28 02:03:07,349 - __main__ - INFO - saving 3 level patterns
+2021-07-28 02:03:07,349 - __main__ - INFO - found 1154 patterns
+2021-07-28 02:03:07,350 - __main__ - INFO - computing patterns for level : 4
+2021-07-28 02:03:07,486 - __main__ - INFO - saving 4 level patterns
+2021-07-28 02:03:07,487 - __main__ - INFO - found 729 patterns
+2021-07-28 02:03:07,487 - __main__ - INFO - computing patterns for level : 5
+2021-07-28 02:03:07,624 - __main__ - INFO - saving 5 level patterns
+2021-07-28 02:03:07,624 - __main__ - INFO - found 117 patterns
+2021-07-28 02:03:07,624 - __main__ - INFO - computing patterns for level : 6
+2021-07-28 02:03:07,761 - __main__ - INFO - saving 6 level patterns
+2021-07-28 02:03:07,761 - __main__ - INFO - found 7 patterns
+2021-07-28 02:03:07,761 - __main__ - INFO - computing patterns for level : 7
+2021-07-28 02:03:07,912 - __main__ - INFO - saving 7 level patterns
+2021-07-28 02:03:07,913 - __main__ - INFO - found 0 patterns
+2021-07-28 02:03:07,913 - __main__ - INFO - computing patterns for level : 8
+2021-07-28 02:03:08,047 - __main__ - INFO - saving 8 level patterns
+2021-07-28 02:03:08,056 - __main__ - INFO - total time taken: 3.163562536239624
+2021-07-28 02:03:08,056 - root - INFO - broadcast size:0
+shuffle read:0
+shuffle write:0

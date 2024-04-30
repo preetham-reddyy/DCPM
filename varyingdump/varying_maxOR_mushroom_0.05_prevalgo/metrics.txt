@@ -1,0 +1,4 @@
+input size: 13904896.0
+output size: 0
+shuffle read: 3637681.2
+shuffle write:1936543.0

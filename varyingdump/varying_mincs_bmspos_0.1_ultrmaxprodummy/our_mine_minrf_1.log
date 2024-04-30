@@ -1,0 +1,17 @@
+2021-07-24 22:25:50,486 - __main__ - INFO - Got the following arguments: ['our_newtest.py', '0.04', '1', '0.1', '16', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', 'varying_mincs_bmspos_0.1_ultrmaxprodummy']
+2021-07-24 22:25:57,215 - __main__ - INFO - started mining
+2021-07-24 22:25:57,216 - __main__ - INFO - reading transactional data
+2021-07-24 22:25:57,403 - __main__ - INFO - First level mining
+2021-07-24 22:26:00,101 - __main__ - INFO - Got first level patterns : 36  writing to file
+2021-07-24 22:26:00,102 - __main__ - INFO - Generating second level candidateset
+2021-07-24 22:26:00,442 - __main__ - INFO - saving 2 level patterns
+2021-07-24 22:26:00,442 - __main__ - INFO - found 73 patterns
+2021-07-24 22:26:00,442 - __main__ - INFO - computing patterns for level : 3
+2021-07-24 22:26:00,816 - __main__ - INFO - saving 3 level patterns
+2021-07-24 22:26:00,816 - __main__ - INFO - found 0 patterns
+2021-07-24 22:26:00,816 - __main__ - INFO - computing patterns for level : 4
+2021-07-24 22:26:00,932 - __main__ - INFO - saving 4 level patterns
+2021-07-24 22:26:01,015 - __main__ - INFO - total time taken: 3.79988694190979
+2021-07-24 22:26:01,016 - root - INFO - broadcast size:0
+shuffle read:0
+shuffle write:0

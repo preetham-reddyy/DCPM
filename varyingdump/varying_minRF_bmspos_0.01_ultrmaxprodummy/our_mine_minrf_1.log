@@ -1,0 +1,638 @@
+2021-07-28 14:55:09,151 - __main__ - INFO - Got the following arguments: ['our_newtest.py', '0.01', '1', '0.4', '16', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', 'varying_minRF_bmspos_0.01_ultrmaxprodummy']
+2021-07-28 14:55:14,813 - __main__ - INFO - started mining
+2021-07-28 14:55:14,813 - __main__ - INFO - reading transactional data
+2021-07-28 14:55:14,951 - __main__ - INFO - First level mining
+2021-07-28 14:55:17,896 - __main__ - INFO - Got first level patterns : 149  writing to file
+2021-07-28 14:55:17,899 - __main__ - INFO - Generating second level candidateset
+2021-07-28 14:55:19,272 - __main__ - INFO - saving 2 level patterns
+2021-07-28 14:55:19,272 - __main__ - INFO - found 10535 patterns
+2021-07-28 14:55:19,273 - __main__ - INFO - computing patterns for level : 3
+2021-07-28 14:55:30,475 - __main__ - INFO - saving 3 level patterns
+2021-07-28 14:55:30,478 - __main__ - INFO - found 485300 patterns
+2021-07-28 14:55:30,478 - __main__ - INFO - computing patterns for level : 4
+2021-07-28 14:58:52,649 - py4j.java_gateway - INFO - Error while receiving.
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1207, in send_command
+    raise Py4JNetworkError("Answer from Java side is empty")
+py4j.protocol.Py4JNetworkError: Answer from Java side is empty
+2021-07-28 14:58:52,651 - root - ERROR - Exception while sending command.
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1207, in send_command
+    raise Py4JNetworkError("Answer from Java side is empty")
+py4j.protocol.Py4JNetworkError: Answer from Java side is empty
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1033, in send_command
+    response = connection.send_command(command)
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1212, in send_command
+    "Error while receiving", e, proto.ERROR_ON_RECEIVE)
+py4j.protocol.Py4JNetworkError: Error while receiving
+2021-07-28 14:58:52,651 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:33781)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 14:58:52,652 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:33781)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 14:58:52,652 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:33781)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 14:58:52,652 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:33781)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 14:58:52,652 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:33781)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 14:58:52,653 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:33781)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 14:58:52,653 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:33781)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 14:58:52,807 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:33781)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 14:58:52,807 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:33781)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 14:58:52,808 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:33781)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 14:58:52,808 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:33781)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 14:58:52,808 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:33781)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 14:58:52,808 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:33781)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 14:58:52,809 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:33781)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 14:58:52,809 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:33781)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 14:58:52,809 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:33781)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 14:58:52,809 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:33781)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 14:58:52,809 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:33781)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 14:58:52,810 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:33781)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 14:58:52,810 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:33781)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 14:58:52,810 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:33781)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 14:58:52,810 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:33781)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 14:58:52,811 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:33781)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 14:58:52,811 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:33781)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 23:32:03,850 - __main__ - INFO - Got the following arguments: ['our_newtest.py', '0.01', '1', '0.4', '16', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', 'varying_minRF_bmspos_0.01_ultrmaxprodummy']
+2021-07-28 23:32:11,890 - __main__ - INFO - started mining
+2021-07-28 23:32:11,891 - __main__ - INFO - reading transactional data
+2021-07-28 23:32:12,085 - __main__ - INFO - First level mining
+2021-07-28 23:32:14,855 - __main__ - INFO - Got first level patterns : 149  writing to file
+2021-07-28 23:32:14,857 - __main__ - INFO - Generating second level candidateset
+2021-07-28 23:32:16,143 - __main__ - INFO - saving 2 level patterns
+2021-07-28 23:32:16,143 - __main__ - INFO - found 10535 patterns
+2021-07-28 23:32:16,143 - __main__ - INFO - computing patterns for level : 3
+2021-07-28 23:32:23,869 - __main__ - INFO - saving 3 level patterns
+2021-07-28 23:32:23,873 - __main__ - INFO - found 485300 patterns
+2021-07-28 23:32:23,873 - __main__ - INFO - computing patterns for level : 4
+2021-07-28 23:34:21,784 - py4j.java_gateway - INFO - Error while receiving.
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1207, in send_command
+    raise Py4JNetworkError("Answer from Java side is empty")
+py4j.protocol.Py4JNetworkError: Answer from Java side is empty
+2021-07-28 23:34:21,796 - root - ERROR - Exception while sending command.
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1207, in send_command
+    raise Py4JNetworkError("Answer from Java side is empty")
+py4j.protocol.Py4JNetworkError: Answer from Java side is empty
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1033, in send_command
+    response = connection.send_command(command)
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1212, in send_command
+    "Error while receiving", e, proto.ERROR_ON_RECEIVE)
+py4j.protocol.Py4JNetworkError: Error while receiving
+2021-07-28 23:34:21,797 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:38421)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 23:34:21,797 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:38421)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 23:34:21,797 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:38421)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 23:34:21,797 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:38421)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 23:34:21,798 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:38421)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 23:34:21,798 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:38421)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 23:34:21,798 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:38421)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 23:34:21,908 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:38421)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 23:34:21,909 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:38421)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 23:34:21,909 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:38421)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 23:34:21,909 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:38421)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 23:34:21,910 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:38421)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 23:34:21,910 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:38421)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 23:34:21,910 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:38421)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 23:34:21,910 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:38421)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 23:34:21,910 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:38421)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 23:34:21,911 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:38421)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 23:34:21,911 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:38421)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 23:34:21,911 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:38421)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 23:34:21,911 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:38421)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 23:34:21,912 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:38421)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 23:34:21,912 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:38421)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 23:34:21,912 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:38421)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused
+2021-07-28 23:34:21,912 - py4j.java_gateway - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:38421)
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/preetham_sathineni/anaconda2/envs/py37/lib/python3.7/site-packages/py4j/java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [Errno 111] Connection refused

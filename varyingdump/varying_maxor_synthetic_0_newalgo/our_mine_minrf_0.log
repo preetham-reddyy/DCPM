@@ -1,0 +1,89 @@
+2021-07-15 01:58:39,020 - __main__ - INFO - Got the following arguments: ['our_newtest.py', '0.05', '0', '0.4', '8', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/mushroom.txt', 'varying_maxor_synthetic_0_newalgo']
+2021-07-15 01:58:41,995 - __main__ - INFO - started mining
+2021-07-15 01:58:41,995 - __main__ - INFO - reading transactional data
+2021-07-15 01:58:42,014 - __main__ - INFO - First level mining
+2021-07-15 01:58:44,072 - __main__ - INFO - Got first level patterns : 0  writing to file
+2021-07-15 01:58:44,073 - __main__ - INFO - Generating second level candidateset
+2021-07-15 01:58:44,073 - __main__ - INFO - saving 2 level patterns
+2021-07-15 01:59:10,904 - __main__ - INFO - Got the following arguments: ['our_newtest.py', '0.05', '0', '0.4', '8', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/mushroom.txt', 'varying_maxor_synthetic_0_newalgo']
+2021-07-15 01:59:13,645 - __main__ - INFO - started mining
+2021-07-15 01:59:13,646 - __main__ - INFO - reading transactional data
+2021-07-15 01:59:13,662 - __main__ - INFO - First level mining
+2021-07-15 01:59:15,470 - __main__ - INFO - Got first level patterns : 0  writing to file
+2021-07-15 01:59:15,471 - __main__ - INFO - Generating second level candidateset
+2021-07-15 01:59:15,471 - __main__ - INFO - saving 2 level patterns
+2021-07-15 02:01:22,428 - __main__ - INFO - Got the following arguments: ['our_newtest.py', '0.05', '0', '0.4', '8', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/mushroom.txt', 'varying_maxor_synthetic_0_newalgo']
+2021-07-15 02:01:25,466 - __main__ - INFO - started mining
+2021-07-15 02:01:25,467 - __main__ - INFO - reading transactional data
+2021-07-15 02:01:25,485 - __main__ - INFO - First level mining
+2021-07-15 02:01:27,493 - __main__ - INFO - Got first level patterns : 0  writing to file
+2021-07-15 02:01:27,494 - __main__ - INFO - Generating second level candidateset
+2021-07-15 02:01:27,494 - __main__ - INFO - saving 2 level patterns
+2021-07-15 02:01:27,494 - __main__ - INFO - computing patterns for level : 3
+2021-07-15 02:01:27,647 - __main__ - INFO - saving 3 level patterns
+2021-07-15 02:01:27,654 - __main__ - INFO - total time taken: 2.188126564025879
+2021-07-15 02:02:53,322 - __main__ - INFO - Got the following arguments: ['our_newtest.py', '0.05', '0', '0.4', '8', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/mushroom.txt', 'varying_maxor_synthetic_0_newalgo']
+2021-07-15 02:02:56,391 - __main__ - INFO - started mining
+2021-07-15 02:02:56,392 - __main__ - INFO - reading transactional data
+2021-07-15 02:02:56,411 - __main__ - INFO - First level mining
+2021-07-15 02:02:58,621 - __main__ - INFO - Got first level patterns : 0  writing to file
+2021-07-15 02:02:58,622 - __main__ - INFO - Generating second level candidateset
+2021-07-15 02:02:58,622 - __main__ - INFO - saving 2 level patterns
+2021-07-15 02:02:58,622 - __main__ - INFO - computing patterns for level : 3
+2021-07-15 02:02:58,776 - __main__ - INFO - saving 3 level patterns
+2021-07-15 02:02:58,786 - __main__ - INFO - total time taken: 2.394918441772461
+2021-07-15 02:04:07,560 - __main__ - INFO - Got the following arguments: ['our_pyspark.py', '0.05', '0', '0.4', '8', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/mushroom.txt', 'varying_maxor_synthetic_0_newalgo']
+2021-07-15 02:04:11,220 - __main__ - INFO - started mining
+2021-07-15 02:04:11,221 - __main__ - INFO - reading transactional data
+2021-07-15 02:04:11,239 - __main__ - INFO - First level mining
+2021-07-15 02:04:13,392 - __main__ - INFO - Got first level patterns : 0  writing to file
+2021-07-15 02:04:13,393 - __main__ - INFO - Generating second level candidateset
+2021-07-15 02:04:13,393 - __main__ - INFO - saving 2 level patterns
+2021-07-15 02:04:13,393 - __main__ - INFO - found 0 patterns
+2021-07-15 02:04:13,394 - __main__ - INFO - computing patterns for level : 3
+2021-07-15 02:04:13,549 - __main__ - INFO - saving 3 level patterns
+2021-07-15 02:04:13,558 - __main__ - INFO - total time taken: 2.3378565311431885
+2021-07-15 02:05:10,422 - __main__ - INFO - Got the following arguments: ['our_pyspark.py', '0.05', '0', '0.4', '8', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/mushroom.txt', 'varying_maxor_synthetic_0_newalgo']
+2021-07-15 02:05:13,488 - __main__ - INFO - started mining
+2021-07-15 02:05:13,489 - __main__ - INFO - reading transactional data
+2021-07-15 02:05:13,507 - __main__ - INFO - First level mining
+2021-07-15 02:05:15,669 - __main__ - INFO - Got first level patterns : 0  writing to file
+2021-07-15 02:05:15,671 - __main__ - INFO - Generating second level candidateset
+2021-07-15 02:05:15,671 - __main__ - INFO - saving 2 level patterns
+2021-07-15 02:05:15,671 - __main__ - INFO - found 0 patterns
+2021-07-15 02:05:15,672 - __main__ - INFO - computing patterns for level : 3
+2021-07-15 02:05:15,814 - __main__ - INFO - saving 3 level patterns
+2021-07-15 02:05:15,822 - __main__ - INFO - total time taken: 2.3333520889282227
+2021-07-15 02:05:54,370 - __main__ - INFO - Got the following arguments: ['our_pyspark.py', '0.05', '0', '0.4', '8', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/mushroom.txt', 'varying_maxor_synthetic_0_newalgo']
+2021-07-15 02:05:57,361 - __main__ - INFO - started mining
+2021-07-15 02:05:57,362 - __main__ - INFO - reading transactional data
+2021-07-15 02:05:57,379 - __main__ - INFO - First level mining
+2021-07-15 02:05:59,426 - __main__ - INFO - Got first level patterns : 0  writing to file
+2021-07-15 02:05:59,427 - __main__ - INFO - Generating second level candidateset
+2021-07-15 02:05:59,427 - __main__ - INFO - saving 2 level patterns
+2021-07-15 02:05:59,427 - __main__ - INFO - found 0 patterns
+2021-07-15 02:05:59,428 - __main__ - INFO - computing patterns for level : 3
+2021-07-15 02:05:59,589 - __main__ - INFO - saving 3 level patterns
+2021-07-15 02:05:59,596 - __main__ - INFO - total time taken: 2.2349798679351807
+2021-07-15 02:06:24,807 - __main__ - INFO - Got the following arguments: ['our_pyspark.py', '0.05', '0', '0.4', '8', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/mushroom.txt', 'varying_maxor_synthetic_0_newalgo']
+2021-07-15 02:06:27,826 - __main__ - INFO - started mining
+2021-07-15 02:06:27,826 - __main__ - INFO - reading transactional data
+2021-07-15 02:06:27,844 - __main__ - INFO - First level mining
+2021-07-15 02:06:31,614 - __main__ - INFO - Got first level patterns : 0  writing to file
+2021-07-15 02:06:31,615 - __main__ - INFO - Generating second level candidateset
+2021-07-15 02:06:31,615 - __main__ - INFO - saving 2 level patterns
+2021-07-15 02:06:31,615 - __main__ - INFO - found 0 patterns
+2021-07-15 02:06:31,616 - __main__ - INFO - computing patterns for level : 3
+2021-07-15 02:06:31,779 - __main__ - INFO - saving 3 level patterns
+2021-07-15 02:06:31,788 - __main__ - INFO - total time taken: 3.962329626083374
+2021-07-15 02:07:04,317 - __main__ - INFO - Got the following arguments: ['our_pyspark.py', '0.05', '0', '0.4', '8', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/mushroom.txt', 'varying_maxor_synthetic_0_newalgo']
+2021-07-15 02:07:07,294 - __main__ - INFO - started mining
+2021-07-15 02:07:07,295 - __main__ - INFO - reading transactional data
+2021-07-15 02:07:07,313 - __main__ - INFO - First level mining
+2021-07-15 02:07:09,512 - __main__ - INFO - Got first level patterns : 0  writing to file
+2021-07-15 02:07:09,513 - __main__ - INFO - Generating second level candidateset
+2021-07-15 02:07:09,513 - __main__ - INFO - saving 2 level patterns
+2021-07-15 02:07:09,514 - __main__ - INFO - found 0 patterns
+2021-07-15 02:07:09,514 - __main__ - INFO - computing patterns for level : 3
+2021-07-15 02:07:09,646 - __main__ - INFO - saving 3 level patterns
+2021-07-15 02:07:09,653 - __main__ - INFO - total time taken: 2.35874605178833

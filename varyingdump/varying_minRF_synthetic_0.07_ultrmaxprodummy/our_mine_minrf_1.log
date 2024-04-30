@@ -1,0 +1,23 @@
+2021-07-28 02:28:20,519 - __main__ - INFO - Got the following arguments: ['our_newtest.py', '0.07', '1', '0.4', '16', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', 'varying_minRF_synthetic_0.07_ultrmaxprodummy']
+2021-07-28 02:28:25,994 - __main__ - INFO - started mining
+2021-07-28 02:28:25,994 - __main__ - INFO - reading transactional data
+2021-07-28 02:28:26,129 - __main__ - INFO - First level mining
+2021-07-28 02:28:28,856 - __main__ - INFO - Got first level patterns : 18  writing to file
+2021-07-28 02:28:28,857 - __main__ - INFO - Generating second level candidateset
+2021-07-28 02:28:29,060 - __main__ - INFO - saving 2 level patterns
+2021-07-28 02:28:29,060 - __main__ - INFO - found 112 patterns
+2021-07-28 02:28:29,060 - __main__ - INFO - computing patterns for level : 3
+2021-07-28 02:28:29,480 - __main__ - INFO - saving 3 level patterns
+2021-07-28 02:28:29,480 - __main__ - INFO - found 188 patterns
+2021-07-28 02:28:29,480 - __main__ - INFO - computing patterns for level : 4
+2021-07-28 02:28:29,676 - __main__ - INFO - saving 4 level patterns
+2021-07-28 02:28:29,677 - __main__ - INFO - found 43 patterns
+2021-07-28 02:28:29,677 - __main__ - INFO - computing patterns for level : 5
+2021-07-28 02:28:29,810 - __main__ - INFO - saving 5 level patterns
+2021-07-28 02:28:29,811 - __main__ - INFO - found 0 patterns
+2021-07-28 02:28:29,811 - __main__ - INFO - computing patterns for level : 6
+2021-07-28 02:28:29,960 - __main__ - INFO - saving 6 level patterns
+2021-07-28 02:28:30,039 - __main__ - INFO - total time taken: 4.045285940170288
+2021-07-28 02:28:30,040 - root - INFO - broadcast size:0
+shuffle read:0
+shuffle write:0

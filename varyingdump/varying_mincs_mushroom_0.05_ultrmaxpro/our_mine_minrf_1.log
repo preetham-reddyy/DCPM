@@ -1,0 +1,76 @@
+2021-07-16 11:27:04,555 - __main__ - INFO - Got the following arguments: ['our_newtest.py', '0.045', '1', '0.05', '8', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/synthetic.txt', 'varying_mincs_mushroom_0.05_ultrmaxpro']
+2021-07-16 11:27:15,095 - __main__ - INFO - started mining
+2021-07-16 11:27:15,096 - __main__ - INFO - reading transactional data
+2021-07-16 11:27:15,658 - __main__ - INFO - First level mining
+2021-07-16 11:27:19,312 - __main__ - INFO - Got first level patterns : 17  writing to file
+2021-07-16 11:27:19,314 - __main__ - INFO - Generating second level candidateset
+2021-07-16 11:27:19,457 - __main__ - INFO - saving 2 level patterns
+2021-07-16 11:27:19,457 - __main__ - INFO - found 68 patterns
+2021-07-16 11:27:19,457 - __main__ - INFO - computing patterns for level : 3
+2021-07-16 11:27:19,810 - __main__ - INFO - saving 3 level patterns
+2021-07-16 11:27:19,810 - __main__ - INFO - found 0 patterns
+2021-07-16 11:27:19,811 - __main__ - INFO - computing patterns for level : 4
+2021-07-16 11:27:19,944 - __main__ - INFO - saving 4 level patterns
+2021-07-16 11:27:20,001 - __main__ - INFO - total time taken: 4.9058756828308105
+2021-07-16 11:27:20,002 - root - INFO - broadcast size:17492451
+shuffle read:2560
+shuffle write:65
+2021-07-16 11:41:38,950 - __main__ - INFO - Got the following arguments: ['our_newtest.py', '0.045', '1', '0.05', '8', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/synthetic.txt', 'varying_mincs_mushroom_0.05_ultrmaxpro']
+2021-07-16 11:41:44,688 - __main__ - INFO - started mining
+2021-07-16 11:41:44,689 - __main__ - INFO - reading transactional data
+2021-07-16 11:41:44,860 - __main__ - INFO - First level mining
+2021-07-16 11:42:25,192 - __main__ - INFO - Got the following arguments: ['our_newtest.py', '0.045', '1', '0.05', '8', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/synthetic.txt', 'varying_mincs_mushroom_0.05_ultrmaxpro']
+2021-07-16 11:42:30,838 - __main__ - INFO - started mining
+2021-07-16 11:42:30,839 - __main__ - INFO - reading transactional data
+2021-07-16 11:42:31,004 - __main__ - INFO - First level mining
+2021-07-16 11:42:34,125 - __main__ - INFO - Got first level patterns : 17  writing to file
+2021-07-16 11:42:34,127 - __main__ - INFO - Generating second level candidateset
+2021-07-16 11:42:34,269 - __main__ - INFO - saving 2 level patterns
+2021-07-16 11:42:34,269 - __main__ - INFO - found 68 patterns
+2021-07-16 11:42:34,269 - __main__ - INFO - computing patterns for level : 3
+2021-07-16 11:42:34,691 - __main__ - INFO - saving 3 level patterns
+2021-07-16 11:42:34,691 - __main__ - INFO - found 0 patterns
+2021-07-16 11:42:34,691 - __main__ - INFO - computing patterns for level : 4
+2021-07-16 11:42:34,821 - __main__ - INFO - saving 4 level patterns
+2021-07-16 11:42:34,982 - __main__ - INFO - total time taken: 4.143697261810303
+2021-07-16 11:42:34,983 - root - INFO - broadcast size:3754307
+shuffle read:2560
+shuffle write:65
+2021-07-16 11:56:00,550 - __main__ - INFO - Got the following arguments: ['our_newtest.py', '0.05', '1', '0.05', '8', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/mushroom.txt', 'varying_mincs_mushroom_0.05_ultrmaxpro']
+2021-07-16 11:56:09,212 - __main__ - INFO - started mining
+2021-07-16 11:56:09,212 - __main__ - INFO - reading transactional data
+2021-07-16 11:56:09,402 - __main__ - INFO - First level mining
+2021-07-16 11:56:11,466 - __main__ - INFO - Got first level patterns : 73  writing to file
+2021-07-16 11:56:11,467 - __main__ - INFO - Generating second level candidateset
+2021-07-16 11:56:11,728 - __main__ - INFO - saving 2 level patterns
+2021-07-16 11:56:11,728 - __main__ - INFO - found 652 patterns
+2021-07-16 11:56:11,729 - __main__ - INFO - computing patterns for level : 3
+2021-07-16 11:56:11,909 - __main__ - INFO - saving 3 level patterns
+2021-07-16 11:56:11,909 - __main__ - INFO - found 2124 patterns
+2021-07-16 11:56:11,909 - __main__ - INFO - computing patterns for level : 4
+2021-07-16 11:56:12,075 - __main__ - INFO - saving 4 level patterns
+2021-07-16 11:56:12,075 - __main__ - INFO - found 3196 patterns
+2021-07-16 11:56:12,075 - __main__ - INFO - computing patterns for level : 5
+2021-07-16 11:56:12,264 - __main__ - INFO - saving 5 level patterns
+2021-07-16 11:56:12,265 - __main__ - INFO - found 2477 patterns
+2021-07-16 11:56:12,265 - __main__ - INFO - computing patterns for level : 6
+2021-07-16 11:56:12,493 - __main__ - INFO - saving 6 level patterns
+2021-07-16 11:56:12,493 - __main__ - INFO - found 1063 patterns
+2021-07-16 11:56:12,493 - __main__ - INFO - computing patterns for level : 7
+2021-07-16 11:56:12,650 - __main__ - INFO - saving 7 level patterns
+2021-07-16 11:56:12,650 - __main__ - INFO - found 238 patterns
+2021-07-16 11:56:12,650 - __main__ - INFO - computing patterns for level : 8
+2021-07-16 11:56:12,777 - __main__ - INFO - saving 8 level patterns
+2021-07-16 11:56:12,777 - __main__ - INFO - found 25 patterns
+2021-07-16 11:56:12,777 - __main__ - INFO - computing patterns for level : 9
+2021-07-16 11:56:12,910 - __main__ - INFO - saving 9 level patterns
+2021-07-16 11:56:12,911 - __main__ - INFO - found 1 patterns
+2021-07-16 11:56:12,911 - __main__ - INFO - computing patterns for level : 10
+2021-07-16 11:56:13,023 - __main__ - INFO - saving 10 level patterns
+2021-07-16 11:56:13,023 - __main__ - INFO - found 0 patterns
+2021-07-16 11:56:13,023 - __main__ - INFO - computing patterns for level : 11
+2021-07-16 11:56:13,135 - __main__ - INFO - saving 11 level patterns
+2021-07-16 11:56:13,142 - __main__ - INFO - total time taken: 3.930210590362549
+2021-07-16 11:56:13,143 - root - INFO - broadcast size:558345
+shuffle read:765132
+shuffle write:741496

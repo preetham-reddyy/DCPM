@@ -1,0 +1,11 @@
+2021-06-18 16:46:23,673 - __main__ - INFO - Got the following arguments: ['our_mine_3.py', '0.045', '1', '0.05', '8', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/synthetic.txt', 'varying_maxor_0.05_ouralgo']
+2021-06-18 16:46:23,674 - __main__ - INFO - started mining
+2021-06-18 16:46:23,674 - __main__ - INFO - reading transactional data
+2021-06-18 16:46:23,893 - __main__ - INFO - First level mining
+2021-06-18 16:46:24,573 - __main__ - INFO - Got first level patterns : 17  writing to file
+2021-06-18 16:46:24,573 - __main__ - INFO - Generating second level candidateset
+2021-06-18 16:46:24,660 - __main__ - INFO - saving 2 level patterns
+2021-06-18 16:46:24,665 - __main__ - INFO - found 68 patterns
+2021-06-18 16:46:24,665 - __main__ - INFO - computing patterns for level : 3
+2021-06-18 16:46:24,800 - __main__ - INFO - saving 3 level patterns
+2021-06-18 16:46:24,836 - __main__ - INFO - total time taken: 1.1625475883483887

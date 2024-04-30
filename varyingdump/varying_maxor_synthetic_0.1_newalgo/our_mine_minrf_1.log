@@ -1,0 +1,17 @@
+2021-07-09 02:30:29,283 - __main__ - INFO - Got the following arguments: ['our_pyspark.py', '0.045', '1', '0.1', '8', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/synthetic.txt', 'varying_maxor_synthetic_0.1_newalgo']
+2021-07-09 02:30:36,684 - __main__ - INFO - started mining
+2021-07-09 02:30:36,684 - __main__ - INFO - reading transactional data
+2021-07-09 02:30:36,883 - __main__ - INFO - First level mining
+2021-07-09 02:30:40,184 - __main__ - INFO - Got first level patterns : 17  writing to file
+2021-07-09 02:30:40,185 - __main__ - INFO - Generating second level candidateset
+2021-07-09 02:30:40,351 - __main__ - INFO - saving 2 level patterns
+2021-07-09 02:30:40,351 - __main__ - INFO - found 123 patterns
+2021-07-09 02:30:40,353 - __main__ - INFO - computing patterns for level : 3
+2021-07-09 02:30:40,767 - __main__ - INFO - saving 3 level patterns
+2021-07-09 02:30:40,767 - __main__ - INFO - found 285 patterns
+2021-07-09 02:30:40,769 - __main__ - INFO - computing patterns for level : 4
+2021-07-09 02:30:40,935 - __main__ - INFO - saving 4 level patterns
+2021-07-09 02:30:40,935 - __main__ - INFO - found 32 patterns
+2021-07-09 02:30:40,936 - __main__ - INFO - computing patterns for level : 5
+2021-07-09 02:30:41,057 - __main__ - INFO - saving 5 level patterns
+2021-07-09 02:30:41,166 - __main__ - INFO - total time taken: 4.482817888259888

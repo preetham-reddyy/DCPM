@@ -1,0 +1,17 @@
+2021-07-04 01:28:59,237 - __main__ - INFO - Got the following arguments: ['our_pyspark.py', '0.2', '1', '0.3', '8', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/mushroom.txt', 'varying_minrf_mushroom_0.2_newalgo']
+2021-07-04 01:29:04,986 - __main__ - INFO - started mining
+2021-07-04 01:29:04,987 - __main__ - INFO - reading transactional data
+2021-07-04 01:29:05,011 - __main__ - INFO - First level mining
+2021-07-04 01:29:06,928 - __main__ - INFO - Got first level patterns : 43  writing to file
+2021-07-04 01:29:06,930 - __main__ - INFO - Generating second level candidateset
+2021-07-04 01:29:07,105 - __main__ - INFO - saving 2 level patterns
+2021-07-04 01:29:07,105 - __main__ - INFO - found 192 patterns
+2021-07-04 01:29:07,107 - __main__ - INFO - computing patterns for level : 3
+2021-07-04 01:29:07,276 - __main__ - INFO - saving 3 level patterns
+2021-07-04 01:29:07,276 - __main__ - INFO - found 93 patterns
+2021-07-04 01:29:07,278 - __main__ - INFO - computing patterns for level : 4
+2021-07-04 01:29:07,395 - __main__ - INFO - saving 4 level patterns
+2021-07-04 01:29:07,395 - __main__ - INFO - found 13 patterns
+2021-07-04 01:29:07,396 - __main__ - INFO - computing patterns for level : 5
+2021-07-04 01:29:07,509 - __main__ - INFO - saving 5 level patterns
+2021-07-04 01:29:07,520 - __main__ - INFO - total time taken: 2.533630132675171

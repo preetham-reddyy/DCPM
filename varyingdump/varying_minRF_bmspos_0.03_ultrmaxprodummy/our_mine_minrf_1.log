@@ -1,0 +1,41 @@
+2021-07-28 14:46:01,505 - __main__ - INFO - Got the following arguments: ['our_newtest.py', '0.03', '1', '0.4', '16', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', 'varying_minRF_bmspos_0.03_ultrmaxprodummy']
+2021-07-28 14:46:10,120 - __main__ - INFO - started mining
+2021-07-28 14:46:10,121 - __main__ - INFO - reading transactional data
+2021-07-28 14:46:10,339 - __main__ - INFO - First level mining
+2021-07-28 14:46:13,010 - __main__ - INFO - Got first level patterns : 45  writing to file
+2021-07-28 14:46:13,011 - __main__ - INFO - Generating second level candidateset
+2021-07-28 14:46:13,415 - __main__ - INFO - saving 2 level patterns
+2021-07-28 14:46:13,416 - __main__ - INFO - found 870 patterns
+2021-07-28 14:46:13,416 - __main__ - INFO - computing patterns for level : 3
+2021-07-28 14:46:14,792 - __main__ - INFO - saving 3 level patterns
+2021-07-28 14:46:14,792 - __main__ - INFO - found 9627 patterns
+2021-07-28 14:46:14,792 - __main__ - INFO - computing patterns for level : 4
+2021-07-28 14:46:19,568 - __main__ - INFO - saving 4 level patterns
+2021-07-28 14:46:19,570 - __main__ - INFO - found 68454 patterns
+2021-07-28 14:46:19,570 - __main__ - INFO - computing patterns for level : 5
+2021-07-28 14:46:43,216 - __main__ - INFO - saving 5 level patterns
+2021-07-28 14:46:43,225 - __main__ - INFO - found 303592 patterns
+2021-07-28 14:46:43,225 - __main__ - INFO - computing patterns for level : 6
+2021-07-28 14:48:08,702 - __main__ - INFO - saving 6 level patterns
+2021-07-28 14:48:08,754 - __main__ - INFO - found 719127 patterns
+2021-07-28 14:48:08,754 - __main__ - INFO - computing patterns for level : 7
+2021-07-28 14:50:45,584 - __main__ - INFO - saving 7 level patterns
+2021-07-28 14:50:45,666 - __main__ - INFO - found 786801 patterns
+2021-07-28 14:50:45,666 - __main__ - INFO - computing patterns for level : 8
+2021-07-28 14:53:38,846 - __main__ - INFO - saving 8 level patterns
+2021-07-28 14:53:38,905 - __main__ - INFO - found 297147 patterns
+2021-07-28 14:53:38,906 - __main__ - INFO - computing patterns for level : 9
+2021-07-28 14:54:54,055 - __main__ - INFO - saving 9 level patterns
+2021-07-28 14:54:54,070 - __main__ - INFO - found 24383 patterns
+2021-07-28 14:54:54,070 - __main__ - INFO - computing patterns for level : 10
+2021-07-28 14:55:02,154 - __main__ - INFO - saving 10 level patterns
+2021-07-28 14:55:02,156 - __main__ - INFO - found 213 patterns
+2021-07-28 14:55:02,156 - __main__ - INFO - computing patterns for level : 11
+2021-07-28 14:55:02,346 - __main__ - INFO - saving 11 level patterns
+2021-07-28 14:55:02,346 - __main__ - INFO - found 0 patterns
+2021-07-28 14:55:02,346 - __main__ - INFO - computing patterns for level : 12
+2021-07-28 14:55:02,455 - __main__ - INFO - saving 12 level patterns
+2021-07-28 14:55:02,493 - __main__ - INFO - total time taken: 532.3731331825256
+2021-07-28 14:55:02,494 - root - INFO - broadcast size:0
+shuffle read:0
+shuffle write:0

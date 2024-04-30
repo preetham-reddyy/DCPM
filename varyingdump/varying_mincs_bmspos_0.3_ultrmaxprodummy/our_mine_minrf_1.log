@@ -1,0 +1,26 @@
+2021-07-24 22:26:05,764 - __main__ - INFO - Got the following arguments: ['our_newtest.py', '0.04', '1', '0.3', '16', '../CMineMR-Mapreduce-algorithm-to-extract-coverage-patterns-master/dataset/bmspos.txt', 'varying_mincs_bmspos_0.3_ultrmaxprodummy']
+2021-07-24 22:26:11,225 - __main__ - INFO - started mining
+2021-07-24 22:26:11,225 - __main__ - INFO - reading transactional data
+2021-07-24 22:26:11,352 - __main__ - INFO - First level mining
+2021-07-24 22:26:13,969 - __main__ - INFO - Got first level patterns : 36  writing to file
+2021-07-24 22:26:13,971 - __main__ - INFO - Generating second level candidateset
+2021-07-24 22:26:14,326 - __main__ - INFO - saving 2 level patterns
+2021-07-24 22:26:14,327 - __main__ - INFO - found 433 patterns
+2021-07-24 22:26:14,327 - __main__ - INFO - computing patterns for level : 3
+2021-07-24 22:26:15,083 - __main__ - INFO - saving 3 level patterns
+2021-07-24 22:26:15,083 - __main__ - INFO - found 2840 patterns
+2021-07-24 22:26:15,083 - __main__ - INFO - computing patterns for level : 4
+2021-07-24 22:26:16,578 - __main__ - INFO - saving 4 level patterns
+2021-07-24 22:26:16,579 - __main__ - INFO - found 6382 patterns
+2021-07-24 22:26:16,579 - __main__ - INFO - computing patterns for level : 5
+2021-07-24 22:26:18,398 - __main__ - INFO - saving 5 level patterns
+2021-07-24 22:26:18,399 - __main__ - INFO - found 2009 patterns
+2021-07-24 22:26:18,399 - __main__ - INFO - computing patterns for level : 6
+2021-07-24 22:26:19,168 - __main__ - INFO - saving 6 level patterns
+2021-07-24 22:26:19,168 - __main__ - INFO - found 0 patterns
+2021-07-24 22:26:19,168 - __main__ - INFO - computing patterns for level : 7
+2021-07-24 22:26:19,283 - __main__ - INFO - saving 7 level patterns
+2021-07-24 22:26:19,323 - __main__ - INFO - total time taken: 8.098657846450806
+2021-07-24 22:26:19,324 - root - INFO - broadcast size:0
+shuffle read:0
+shuffle write:0
